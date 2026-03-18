@@ -7,7 +7,7 @@ An interactive web-based number guessing game built using Python and Streamlit. 
 
 ## 🚀 Live Demo
 
-👉 https://your-app-name.streamlit.app
+👉 [https://your-app-name.streamlit.app](https://number-guessing-game-nuytxvbznlzdrwvwtz3qb2.streamlit.app/)
 
 ---
 
