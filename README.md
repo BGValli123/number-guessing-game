@@ -1,3 +1,4 @@
+
 # 🎯 Number Guessing Game (Streamlit)
 
 An interactive web-based number guessing game built using Python and Streamlit. The application generates a random number and allows users to guess it with real-time feedback.
@@ -67,7 +68,8 @@ streamlit run guessing_random_numbers.py
 
 ## 📸 Demo Screenshot
 
-(Add your screenshot here)
+<img width="1335" height="757" alt="output1" src="https://github.com/user-attachments/assets/5ce7c77e-a5ec-4cb2-86cc-a977bb125c63" />
+
 
 ---
 
